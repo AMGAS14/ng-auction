@@ -8,6 +8,7 @@ import { AuctionSearchComponent } from './auction-search/auction-search.componen
 import { AuctionCarouselComponent } from './auction-carousel/auction-carousel.component';
 import { AuctionProductCardListComponent } from './auction-product-card-list/auction-product-card-list.component';
 import { AuctionFooterComponent } from './auction-footer/auction-footer.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { AuctionFooterComponent } from './auction-footer/auction-footer.componen
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
