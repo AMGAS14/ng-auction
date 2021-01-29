@@ -1,5 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
+
+/**
+ * Search Component
+ */
 @Component({
   selector: 'app-auction-search',
   templateUrl: './auction-search.component.html',
