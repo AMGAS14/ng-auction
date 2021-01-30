@@ -7,7 +7,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 A README is often the first item a visitor will see when visiting your repository. README files typically include information on:
 
-* What the project does
+* A Web App for the oil and Gas Industry.
+Ng-auction delivers support for the process of Set bidding strategies for lease blocks based on market behaviors.
 * Why the project is useful
 * How users can get started with the project
 * Where users can get help with your project
