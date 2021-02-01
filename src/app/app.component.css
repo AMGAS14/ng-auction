@@ -1,0 +1,41 @@
+
+
+
+
+.column {
+    float: left;
+  }
+
+/* Left Column */
+.column.side {
+    width: 25%;
+  }
+  
+  /* Middle column */
+  .column.middle {
+    width: 50%;
+  }
+
+.sideBar {
+ 
+
+}
+
+.carousel {
+
+
+}
+
+
+.listCards {
+
+
+}
+
+
+
+
+.footer {
+    background-color: #0818fad8;
+    padding: 10px;
+  }
